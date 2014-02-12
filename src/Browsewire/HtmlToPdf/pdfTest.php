@@ -1,8 +1,7 @@
 <?php 
 
- class	pdfTest{
-	 
-	 
+ class PdfTest{
+	 	 
 	 public static function getTest(){
 		 
 		 return 'new Test found';
